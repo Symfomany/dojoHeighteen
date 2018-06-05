@@ -59,7 +59,7 @@ For example, with n=7 and k=3 josephus(7,3) should act this way.
     [] => 4 is counted out and goes into the result [3,6,2,7,5,1,4]
 ```
 
-Hard (niveau 4):
+## Hard (niveau 4):
 
 In this kata you have to create all permutations of an input string and remove duplicates, if present. This means, you have to shuffle all letters from the input in all possible orders.
 
