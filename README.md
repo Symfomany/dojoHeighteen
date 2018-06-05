@@ -32,7 +32,7 @@ Example
 
 [https://www.codewars.com/kata/multiples-of-3-or-5](https://www.codewars.com/kata/multiples-of-3-or-5)
 
-## Medium Josephus Permutation (niveu 5)
+## Josephus Permutation (Niveau 5)
 
 This problem takes its name by arguably the most important event in the life of the ancient historian Josephus: according to his tale, he and his 40 soldiers were trapped in a cave by the Romans during a siege.
 
@@ -59,7 +59,7 @@ For example, with n=7 and k=3 josephus(7,3) should act this way.
     [] => 4 is counted out and goes into the result [3,6,2,7,5,1,4]
 ```
 
-## Hard (niveau 4):
+## Permutation & Combinaisons (Niveau 4)
 
 In this kata you have to create all permutations of an input string and remove duplicates, if present. This means, you have to shuffle all letters from the input in all possible orders.
 
